@@ -5,4 +5,4 @@ This script automates pentesting tasks:
    3. SMB shares enumeration with netexec
 
  Usage:
-   ./AutoBAKED.sh -u <username> -p <password> -d <domain> -t <targets_file> [-i <dc_ip>]
+   ./AutoBAKED.sh -u (username) -p (password) -d (domain) -t (smb_targets_file) (and optionally) -i (dc_ip)
