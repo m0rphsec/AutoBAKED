@@ -6,7 +6,7 @@
 #   3. SMB shares enumeration with netexec
 #
 # Usage:
-#   ./pentest_automation.sh -u <username> -p <password> -d <domain> -t <targets_file> [-i <dc_ip>]
+#   ./AutoBAKED.sh -u <username> -p <password> -d <domain> -t <targets_file> [-i <dc_ip>]
 
 set -euo pipefail
 
