@@ -1,5 +1,4 @@
 #!/bin/bash
-# pentest_automation.sh
 # This script automates pentesting tasks:
 #   1. Bloodhound AD enumeration
 #   2. Kerberoasting with impacket-GetUserSPNs
